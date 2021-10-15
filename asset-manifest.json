@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/JSW-React/static/css/main.02287967.chunk.css",
+    "main.js": "/JSW-React/static/js/main.dc310587.chunk.js",
+    "main.js.map": "/JSW-React/static/js/main.dc310587.chunk.js.map",
+    "runtime-main.js": "/JSW-React/static/js/runtime-main.6917ecde.js",
+    "runtime-main.js.map": "/JSW-React/static/js/runtime-main.6917ecde.js.map",
+    "static/css/2.2a86faee.chunk.css": "/JSW-React/static/css/2.2a86faee.chunk.css",
+    "static/js/2.948c1f8e.chunk.js": "/JSW-React/static/js/2.948c1f8e.chunk.js",
+    "static/js/2.948c1f8e.chunk.js.map": "/JSW-React/static/js/2.948c1f8e.chunk.js.map",
+    "index.html": "/JSW-React/index.html",
+    "precache-manifest.b58097b8496f90248b52a7c201d80be3.js": "/JSW-React/precache-manifest.b58097b8496f90248b52a7c201d80be3.js",
+    "service-worker.js": "/JSW-React/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/JSW-React/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.02287967.chunk.css.map": "/JSW-React/static/css/main.02287967.chunk.css.map",
+    "static/js/2.948c1f8e.chunk.js.LICENSE.txt": "/JSW-React/static/js/2.948c1f8e.chunk.js.LICENSE.txt",
+    "static/media/Reject.png": "/JSW-React/static/media/Reject.51cb7c93.png",
+    "static/media/Rework.png": "/JSW-React/static/media/Rework.633d6204.png",
+    "static/media/prod1.png": "/JSW-React/static/media/prod1.8f1b0d34.png",
+    "static/media/prod2.png": "/JSW-React/static/media/prod2.42153677.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6917ecde.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.948c1f8e.chunk.js",
+    "static/css/main.02287967.chunk.css",
+    "static/js/main.dc310587.chunk.js"
+  ]
+}
