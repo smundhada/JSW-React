@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div>
         <div class="">
-          <Route exact path= {["/"]} component={home} />
+          <Route exact path= {["/","/JSW-React"]} component={home} />
         </div>
       </div>
     </Router>
