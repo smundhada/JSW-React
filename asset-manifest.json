@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/JSW-React/static/css/main.02287967.chunk.css",
-    "main.js": "/JSW-React/static/js/main.55a47527.chunk.js",
-    "main.js.map": "/JSW-React/static/js/main.55a47527.chunk.js.map",
+    "main.js": "/JSW-React/static/js/main.39526d68.chunk.js",
+    "main.js.map": "/JSW-React/static/js/main.39526d68.chunk.js.map",
     "runtime-main.js": "/JSW-React/static/js/runtime-main.6917ecde.js",
     "runtime-main.js.map": "/JSW-React/static/js/runtime-main.6917ecde.js.map",
     "static/css/2.2a86faee.chunk.css": "/JSW-React/static/css/2.2a86faee.chunk.css",
     "static/js/2.948c1f8e.chunk.js": "/JSW-React/static/js/2.948c1f8e.chunk.js",
     "static/js/2.948c1f8e.chunk.js.map": "/JSW-React/static/js/2.948c1f8e.chunk.js.map",
     "index.html": "/JSW-React/index.html",
-    "precache-manifest.e3115eeb3976f7e6aea4467b1d649b19.js": "/JSW-React/precache-manifest.e3115eeb3976f7e6aea4467b1d649b19.js",
+    "precache-manifest.dde531ed9ca0e3f0fc16733dcf96c089.js": "/JSW-React/precache-manifest.dde531ed9ca0e3f0fc16733dcf96c089.js",
     "service-worker.js": "/JSW-React/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/JSW-React/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.02287967.chunk.css.map": "/JSW-React/static/css/main.02287967.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.948c1f8e.chunk.js",
     "static/css/main.02287967.chunk.css",
-    "static/js/main.55a47527.chunk.js"
+    "static/js/main.39526d68.chunk.js"
   ]
 }
