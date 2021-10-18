@@ -9,7 +9,7 @@ function home() {
 
     return (
         <div style = 
-        {{marginTop : '20px',
+        {{margin : '20px',
           alignContent : 'center',
           textAlign : 'center',
           }}>
